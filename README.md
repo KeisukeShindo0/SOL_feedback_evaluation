@@ -10,13 +10,14 @@ This repository contains supplementary code for the following paper:
 
 - `src/SOL_feedback_evaluation.py`  
   Rule-based logical vector evaluator (baseline method)
-
+[SOL](https://github.com/KeisukeShindo0/SOL_feedback_evaluation/tree/main/src/SOL_feedback_evaluation.py)
 - `src/SOL_compare_MLP.py`  
   MLP-based predictive evaluator
-
+[MLP](https://github.com/KeisukeShindo0/SOL_feedback_evaluation/tree/main/src/SOL_compare_MLP.py)
 - `src/SOL_compare_transformer.py`  
   Transformer-based predictive evaluator
-
+[transformer]( https://github.com/KeisukeShindo0/SOL_feedback_evaluation/tree/main/src/SOL_compare_transformer.py)
+  
 ## 🔧 Requirements
 
 Install required packages using pip:
