@@ -10,7 +10,7 @@ SOL Vector Evaluation - Supplementary Code for Research Paper
 
 This repository contains supplementary code for the following paper:
 
-[http://keisukeshindo0.github.com/SOL_feedback_evaluation/docs/SOLComparisonPaper.pdf](http://keisukeshindo0.github.com/SOL_feedback_evaluation/docs/SOLComparisonPaper.pdf)
+[https://keisukeshindo0.github.com/SOL_feedback_evaluation/docs/SOLComparisonPaper.pdf](https://keisukeshindo0.github.com/SOL_feedback_evaluation/docs/SOLComparisonPaper.pdf)
 
 ## 📁 Contents
 
