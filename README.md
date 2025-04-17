@@ -5,7 +5,7 @@ SOL Vector Evaluation - Supplementary Code for Research Paper
 This repository contains supplementary code for the following paper:
 
 
-**`doc/SOLComparisonPaper.pdf`**
+**`docs/SOLComparisonPaper.pdf`**
 
 ## 📁 Contents
 
