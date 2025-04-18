@@ -1,3 +1,19 @@
+# -*- coding: utf-8 -*-
+#
+# Copyright (c) 2025 Keisuke Shindo
+# https://keisukeshindo0.github.io/SOL_feedback_evaluation/
+#
+# This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+# To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
+#
+# You are free to copy and modify this code for non-commercial purposes, 
+# provided that proper credit is given and a link to the license is included.
+# Commercial use of this software is strictly prohibited.
+#
+# Disclaimer: This code is provided "as is", without warranty of any kind,
+# express or implied, including but not limited to the warranties of merchantability,
+# fitness for a particular purpose and noninfringement.
+
 import torch
 import torch.nn as nn
 import torch.optim as optim
